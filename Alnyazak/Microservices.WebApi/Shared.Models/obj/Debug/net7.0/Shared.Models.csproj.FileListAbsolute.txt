@@ -1,0 +1,12 @@
+C:\Projects\My project\Alnyazak\Microservices.WebApi\Shared.Models\bin\Debug\net7.0\Shared.Models.deps.json
+C:\Projects\My project\Alnyazak\Microservices.WebApi\Shared.Models\bin\Debug\net7.0\Shared.Models.dll
+C:\Projects\My project\Alnyazak\Microservices.WebApi\Shared.Models\bin\Debug\net7.0\Shared.Models.pdb
+C:\Projects\My project\Alnyazak\Microservices.WebApi\Shared.Models\obj\Debug\net7.0\Shared.Models.csproj.AssemblyReference.cache
+C:\Projects\My project\Alnyazak\Microservices.WebApi\Shared.Models\obj\Debug\net7.0\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\My project\Alnyazak\Microservices.WebApi\Shared.Models\obj\Debug\net7.0\Shared.Models.AssemblyInfoInputs.cache
+C:\Projects\My project\Alnyazak\Microservices.WebApi\Shared.Models\obj\Debug\net7.0\Shared.Models.AssemblyInfo.cs
+C:\Projects\My project\Alnyazak\Microservices.WebApi\Shared.Models\obj\Debug\net7.0\Shared.Models.csproj.CoreCompileInputs.cache
+C:\Projects\My project\Alnyazak\Microservices.WebApi\Shared.Models\obj\Debug\net7.0\Shared.Models.dll
+C:\Projects\My project\Alnyazak\Microservices.WebApi\Shared.Models\obj\Debug\net7.0\refint\Shared.Models.dll
+C:\Projects\My project\Alnyazak\Microservices.WebApi\Shared.Models\obj\Debug\net7.0\Shared.Models.pdb
+C:\Projects\My project\Alnyazak\Microservices.WebApi\Shared.Models\obj\Debug\net7.0\ref\Shared.Models.dll
